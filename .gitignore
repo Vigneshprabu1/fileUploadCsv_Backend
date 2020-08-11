@@ -5,7 +5,7 @@
 
 # Node artifact files
 node_modules/
-public
+public/csvFiles
 api/lib/*.json
 
 # Compiled Java class files
